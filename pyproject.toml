@@ -44,9 +44,9 @@ doc = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/spestana/python-project-template"
-Repository = "https://github.com/spestana/python-project-template"
-Issues = "https://github.com/spestana/python-project-template/issues"
+Homepage = "https://test.pypi.org/project/spestana-python-project-template/#description"
+Repository = "https://github.com/spestana/spestana-python-project-template"
+Issues = "https://github.com/spestana/spestana-python-project-template/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/planetsca"]
